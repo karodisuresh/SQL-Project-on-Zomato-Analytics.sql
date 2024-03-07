@@ -15,8 +15,13 @@ So now after creating the database let’s start exploring the data and answer s
 So let’s have a look at our data set, to see the data we will use this query:
 
 Q1 — — what is total amount each customer spent on zomato ?
+
 Q2-- How many days has each customer visited zomato?
+
 Q3--what was the first product purchased by each customer?
+
 Q4 — — what is most purchased item on menu & how many times was it purchased by all customers ?
+
 Q5 — — which item was most popular for each customer?
+
 Q6 — — which item was purchased first by customer after they become a member ?
